@@ -65,3 +65,4 @@ Clone the repository:
 
 git clone https://github.com/yourusername/LogHunter.git
 cd LogHunter
+
