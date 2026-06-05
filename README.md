@@ -63,6 +63,6 @@ A Python-based SOC Log Analyzer designed to detect suspicious activities such as
 
 Clone the repository:
 
-git clone https://github.com/yourusername/LogHunter.git
+git clone https://github.com/Khalidhaimur/LogHunter.git
 cd LogHunter
 
